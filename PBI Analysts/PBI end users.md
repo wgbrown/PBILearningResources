@@ -6,7 +6,7 @@ Start with Dashboard in a Day
 * Once the basics are understood, please review the data modeling resources [Data Modeling Resources](https://github.com/wgbrown/PBILearningResources/blob/cbe5e51babfe3ae8c0df03c3de587a27b313bf1b/Data%20Modeling/Modeling.md)
 
 
-* After data modeling, review report optimization resources 
+* After data modeling, review report optimization resources  
 
 
 * A understanding of Basic DAX (the calculation language of Power BI) will help add analtical value to the reports
