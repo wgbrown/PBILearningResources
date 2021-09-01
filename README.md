@@ -2,7 +2,7 @@
 
 
 ## Power BI for End users
-(https://github.com/wgbrown/PBILearningResources/blob/85bfbc046233e3a217ba11c932f88f6d4a1405a9/End%20Users/End%20Users)[Power BI for End Users]
+[Power BI for End Users](https://github.com/wgbrown/PBILearningResources/blob/85bfbc046233e3a217ba11c932f88f6d4a1405a9/End%20Users/End%20Users)
 
 ## Power BI for Business Users and Analysts
 Start with Dashboard in a Day
