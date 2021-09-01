@@ -1,4 +1,15 @@
-# PBILearningResources
+# PB ILearning Resources
+
+There is an amazing weath of training, blogs and books around Power BI.  This is to give a tightly focused outline of content to that you can start with on your journey.  
+
+In addition, there is a detailed section on ongoing and advanced resources.   
+
+Each section builds on the prior section.  
+
+Outline
+  Power BI for the end user
+  Power BI for Business users and analysts
+  Data engineers 
 
 
 ## Power BI for End users
