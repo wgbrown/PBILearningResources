@@ -1,4 +1,4 @@
-# PB ILearning Resources
+# PBI Learning Resources
 
 There is an amazing weath of training, blogs and books around Power BI.  This is to give a tightly focused outline of content to that you can start with on your journey.  
 
