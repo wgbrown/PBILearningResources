@@ -7,7 +7,7 @@ Start with Dashboard in a Day
 
 
 * After data modeling, review report optimization resources  
-
+[Report Optimization](https://github.com/wgbrown/PBILearningResources/blob/ff8815457add9d246cc137d78f204f9a2a45fa54/ReportOptimization/Report%20Optimization.md)
 
 * A understanding of Basic DAX (the calculation language of Power BI) will help add analtical value to the reports
 
