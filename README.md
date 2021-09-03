@@ -23,7 +23,7 @@ Power BI for analysts who are most comfertable with Excel and self service tools
 
 
 ## Data Engineer
-After PBI for Business Users and Analysts, this sections introduces you to advanced features and design tecniques. 
+After PBI for Business Users and Analysts, these sections introduces you to advanced features and design tecniques. 
 
 
 ## Ongoing resources and training
