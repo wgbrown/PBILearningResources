@@ -13,10 +13,10 @@ Outline
 
 
 ## Power BI for End users
-[Power BI for End Users](https://github.com/wgbrown/PBILearningResources/blob/ec1bad6d6bdec877ba7d3806b8532231d76ce323/End%20Users/End%20Users.md)
+[Power BI for End Users](https://github.com/wgbrown/PBILearningResources/blob/main/End%20Users/End%20Users.md)
 
 ## Power BI for Business Users and Analysts
-[Power BI for Business Users and Analysts](https://github.com/wgbrown/PBILearningResources/blob/7ab8fdf524c4c268df9c401d9ea14095959befe0/PBI%20Analysts/PBI%20end%20users.md)
+[Power BI for Business Users and Analysts](https://github.com/wgbrown/PBILearningResources/blob/main/PBI%20Analysts/PBI%20end%20users.md)
 
 
 
