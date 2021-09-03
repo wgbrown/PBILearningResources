@@ -13,4 +13,4 @@ Power BI is a data model driven BI tool -that means the design of the data drive
 * A understanding of Basic DAX (the calculation language of Power BI) will help add analtical value to the reports.  
 [Dax](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md)
  
-* Visual design is an artform but this will help you create engaging and intelligence reports
+* Visual design is an artform but this will help you create engaging and intelligence reports [Design resources](https://github.com/wgbrown/PBILearningResources/blob/main/VisualDesign/Visual%20Design%20basics.md)
