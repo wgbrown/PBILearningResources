@@ -4,7 +4,7 @@ There is an amazing weath of training, blogs and books around Power BI.  This is
 
 In addition, there is a detailed section on ongoing and advanced resources.   
 
-Each section builds on the prior section.  
+Each section builds on the prior section.  You can pick and choose the content that you want, and use the material as a starting point.  
 
 Outline
   Power BI for the end user
@@ -21,9 +21,11 @@ Power BI for analysts who are most comfertable with Excel and self service tools
 [Power BI for Business Users and Analysts](https://github.com/wgbrown/PBILearningResources/blob/main/PBI%20Analysts/PBI%20end%20users.md)
 
 
-
 ## Data Engineer
 After PBI for Business Users and Analysts, these sections introduces you to advanced features and design tecniques. 
+
+
+
 
 
 ## Ongoing resources and training
