@@ -21,17 +21,32 @@ For reuse of security rules across Power BI datasets, an approach called Table d
 [Dynamic security](https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple)
 [More Dynamic security](https://www.mssqltips.com/sqlservertip/6378/power-bi-table-based-row-level-security/)
 
+Information protection - This is the ability to apply data protection labels so exported content can be secured! 
+[Overview of information protection](https://docs.microsoft.com/en-us/power-bi/admin/service-security-data-protection-overview)  This entire section of the document is worth reviewing 
+[Video overview](https://www.youtube.com/watch?v=HyfG-0AHdGs)
+
+##Application Lifecycle - Application lifecycle allows you to move PBI content between Development, UAT and Production workspaces.  Think of this as no code devops!  Power BI ALM is a Premium feature.
+[Introduction](https://docs.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-overview)
+[Walkthrough](https://visualbi.com/blogs/microsoft/powerbi/application-lifecycle-management-power-bi/)
+[Getting started](https://docs.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-get-started) 
+
+##3rd party tools - Power BI has always been an open and extendable product.  Custom data conntectors and custom visuals have allowed people to extend the product in many new ways.  With Power BI Premium, we have new ways to connect with developer tools.  These are some of the most popular tools.  
+
+While Premium is required to connect to the Power BI service, Premium is not required for use with the Desktop files.  
+[Microsofts description](https://powerbi.microsoft.com/en-us/blog/community-tools-for-enterprise-powerbi-and-analysisservices/)
+
+[ALM toolkit](http://alm-toolkit.com/)  Used to compare 2 PBI files or PBI content in the cloud
+[Tabular editor free](https://tabulareditor.github.io/) or [commerical license](https://tabulareditor.com/)
+
+[Tabular editor best pratices analyzer](https://guyinacube.com/2021/02/18/best-practice-analyzer-in-tabular-editor-for-your-power-bi-dataset/)  This uses a set of rules to analyze your Power BI data set and idenfifies possible improvments. 
+
+[Dax Studio](https://daxstudio.org/)  If you are writing a lot of Dax this can be a huge asset but it also has the ability to export data, and metadata from your model.  
+[Exporting metadata - VPAX files](https://daxstudio.org/documentation/features/model-metrics/)  The file exported is a VPAX file and we can use the 
+[Vertipaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) to view the data.  See the [walkthrough]()
+Or you can view the JSON of the vpax file [Walkthrough](https://www.youtube.com/watch?v=zRa9y01Ub30) 
 
 
-  
-
-
-##Application Lifecycle
-
-
-
-##3rd party tools
-
+[So many uses](https://www.oliviertravers.com/power-bi-third-party-tools-development-addons/)
 
 ##Calculation groups
 
