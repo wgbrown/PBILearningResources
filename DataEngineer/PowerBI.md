@@ -2,6 +2,8 @@ Advanced tecniques for users who have mastered the basics
 
 **Power BI navigation** - Navigation has quite a bit of impact on use adoption.  
 
+Navigation can be as simple as organizing the reports in an APP to drilling to pages or other reports, or using bookmarks to tell a story with data.  
+
 [Apps support customized navigation](https://powerbi.microsoft.com/en-us/blog/designing-custom-navigation-for-power-bi-apps-is-now-available/)
 
 [Button navigation - Actions](https://radacad.com/page-navigation-buttons-in-power-bi)
@@ -12,6 +14,7 @@ Advanced tecniques for users who have mastered the basics
 
 [Cross drill - drill to new report](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-cross-report-drill-through) and [video walktrough](https://www.youtube.com/watch?v=OcZr_70OGPo&t=4s)
 
+[Storytelling resources (https://data-marc.com/2019/07/25/storytelling-with-power-bi-1-7-provide-easy-navigation/) 
 
 **Data security** - Restricing access to a subset of the data based on the user
 [Basic Row Level Security -RLS](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) and [walk through](https://www.sqlshack.com/introduction-to-row-level-security-in-power-bi/)
@@ -48,13 +51,21 @@ Or you can view the JSON of the vpax file [Walkthrough](https://www.youtube.com/
 
 [So many uses](https://www.oliviertravers.com/power-bi-third-party-tools-development-addons/)
 
-##Calculation groups
+**Calculation groups**
+Power BI has a powerful calculation language called [DAX](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md).  Often we are required to create the same calculation several times for each metric.  If you have Sales and Returns data, you might have YTD, Last YTD, Prior Month, Year ago for each measure.  
 
+Calculation groups allow you to create a calculation like YTD but apply it to several measures.  
 
-##Composite models
+![image](https://user-images.githubusercontent.com/10822387/133331307-547a9ade-f737-485d-a89d-67914235396c.png)
 
+While this is an advanced feature and requires use of a 3rd party tool Tabulear Editor(see above)
 
-##Query Folding
+[Calculation groups](https://www.sqlbi.com/blog/marco/2020/07/15/creating-calculation-groups-in-power-bi-desktop/) does require a good knowledge of [DAX](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md) 
+
+**Composite models**
+Composite models are simply put the ability to mix Imported and Direct Query data, or to mix more than one Direct Query data source in the same model.  
+
+**Query Folding**
 
 
 
