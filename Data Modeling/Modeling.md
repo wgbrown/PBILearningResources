@@ -9,7 +9,7 @@ Optimization Guide: [Optmization guide](https://docs.microsoft.com/en-us/power-b
 
 Introduction to Data Modeling (free class): [Class](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
 
-Connect types - Power BI supports different methods of connecting to data sources.  
+Connection types - Power BI supports different methods of connecting to data sources.  
 Import:  Data is imported to the in-memory engine
 Direct Query:  Data is queried off the data source with each interaction
 Live:  A connection to a specific database that stores the data and the sematic model.   
