@@ -5,9 +5,14 @@ As often mentioned, Power BI is a data model driven BI tool.  The behavior of of
 understanding of DAX will allow you to add analytics to your reports.
 
 [Dax Basics](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics) and [Overview](https://docs.microsoft.com/en-us/dax/dax-overview)
+
 [Dax Reference](https://docs.microsoft.com/en-us/dax/)
+
 [Dax Learning Path](https://docs.microsoft.com/en-us/learn/paths/dax-power-bi/)
+
 [Excellent free Dax class](https://www.sqlbi.com/p/introducing-dax-video-course/)  From 2 of the most knowledable people on MS BI.
+
+ 
 
 
 
