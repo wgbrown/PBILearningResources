@@ -10,7 +10,9 @@ It is best to remove any rows of data (filter) and any columns of data (remove c
 
 Steps:
 User accessed table of 20 million records (10 year of data)
+
 User added complex converstion of a column (if, then logic)
+
 User removed all but last 3 years of data 
 
 Because the second step (if, then logic) could not be passed down to the database, Power Query returned 20 million rows and then removed all but the last 3 years. 
