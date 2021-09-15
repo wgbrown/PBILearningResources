@@ -12,12 +12,11 @@ Power BI is a data model driven BI tool -that means the design of the data drive
 *  Creating the data model is handled by Power Query - an end user tool for accessing and preparing data.
 [What is Power Query](https://docs.microsoft.com/en-us/power-query/power-query-what-is-power-query)
 Power Query is used in numerious products - this is a key piece of funcationality.
-
-
-
+[More on PQ here](https://github.com/wgbrown/PBILearningResources/edit/main/PowerQuery/PowerQueryBasics.md)  
 
 * After data modeling, review report optimization resources  
 [Report Optimization](https://github.com/wgbrown/PBILearningResources/blob/main/ReportOptimization/Report%20Optimization.md)
+[Examples](https://www.bluegranite.com/blog/power-bi-performance-optimization)
 
 * A understanding of Basic DAX (the calculation language of Power BI) will help add analtical value to the reports.  
 [Dax](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md)
