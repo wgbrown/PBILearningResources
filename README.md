@@ -20,6 +20,9 @@ Content for end users who consume content via the Power BI portal and/or Excel
 Power BI for analysts who are most comfertable with Excel and self service tools.  This is the right place to start with a lot of content around best pratices, performance and design.  
 [Power BI for Business Users and Analysts](https://github.com/wgbrown/PBILearningResources/blob/main/PBI%20Analysts/PBI%20end%20users.md)
 
+## Deployment best pratices
+A well thought out deployment can save time, money and greatly increase adoption.  [Deployment Resources](https://github.com/wgbrown/PBILearningResources/blob/main/deployment/BasicDeployment.md) 
+
 
 ## Data Engineer
 After PBI for Business Users and Analysts, these sections introduces you to advanced features and design tecniques.  
