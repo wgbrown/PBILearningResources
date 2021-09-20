@@ -14,7 +14,7 @@ Navigation can be as simple as organizing the reports in an APP to drilling to p
 
 [Cross drill - drill to new report](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-cross-report-drill-through) and [video walktrough](https://www.youtube.com/watch?v=OcZr_70OGPo&t=4s)
 
-[Storytelling resources (https://data-marc.com/2019/07/25/storytelling-with-power-bi-1-7-provide-easy-navigation/) 
+[Storytelling resources](https://data-marc.com/2019/07/25/storytelling-with-power-bi-1-7-provide-easy-navigation/) 
 
 **Data security** - Restricing access to a subset of the data based on the user
 [Basic Row Level Security -RLS](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) and [walk through](https://www.sqlshack.com/introduction-to-row-level-security-in-power-bi/)
@@ -60,12 +60,18 @@ Calculation groups allow you to create a calculation like YTD but apply it to se
 
 While this is an advanced feature and requires use of a 3rd party tool Tabulear Editor(see above)
 
-[Calculation groups](https://www.sqlbi.com/blog/marco/2020/07/15/creating-calculation-groups-in-power-bi-desktop/) does require a good knowledge of [DAX](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md) 
+[Calculation groups](https://www.sqlbi.com/blog/marco/2020/07/15/creating-calculation-groups-in-power-bi-desktop/) do require a good knowledge of [DAX](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md) 
 
 **Composite models**
 Composite models are simply put the ability to mix Imported and Direct Query data, or to mix more than one Direct Query data source in the same model.  
 
 **Query Folding**
+Query folding is critcal enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://github.com/wgbrown/PBILearningResources/blob/main/PowerQuery/PowerQueryBasics.md)
+[Detailed walkthrough](https://radacad.com/not-folding-the-black-hole-of-power-query-performance) </br>
+This article mentions "At the time of writing this post Merge Columns doesn’t support Query Folding. I have reported this to Power Query Team, and they are working on it, to solve the issue."  
+Power BI and Power Query is under constant development so what didn't allow for query folding can and will change.  
+
+
 
 
 
