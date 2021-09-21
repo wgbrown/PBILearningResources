@@ -21,7 +21,7 @@ Navigation can be as simple as organizing the reports in an APP to drilling to p
 Remember that users with RW access to the workspace (Admin, Contributer or Member) will NOT have RLS rules applid.  As editors, they could remove themselves from the role so security is not applied.  It is a best pratice to distribute content via APPs and not the workspaces.  [APPS](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps)
 
 For reuse of security rules across Power BI datasets, an approach called Table driven security can be utilized.  This is a more complex technique but makes managment and reuse of rules much easier.  
-[Dynamic security](https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple)
+[Dynamic security](https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple)</br>
 [More Dynamic security](https://www.mssqltips.com/sqlservertip/6378/power-bi-table-based-row-level-security/)
 
 Information protection - This is the ability to apply data protection labels so exported content can be secured! 
