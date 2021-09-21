@@ -17,7 +17,7 @@ Navigation can be as simple as organizing the reports in an APP to drilling to p
 [Storytelling resources](https://data-marc.com/2019/07/25/storytelling-with-power-bi-1-7-provide-easy-navigation/) 
 
 **Data security** - Restricing access to a subset of the data based on the user
-[Basic Row Level Security -RLS](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) and [walk through](https://www.sqlshack.com/introduction-to-row-level-security-in-power-bi/)
+[Basic Row Level Security -RLS](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) and [walk through](https://www.sqlshack.com/introduction-to-row-level-security-in-power-bi/)</br>
 Remember that users with RW access to the workspace (Admin, Contributer or Member) will NOT have RLS rules applid.  As editors, they could remove themselves from the role so security is not applied.  It is a best pratice to distribute content via APPs and not the workspaces.  [APPS](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps)
 
 For reuse of security rules across Power BI datasets, an approach called Table driven security can be utilized.  This is a more complex technique but makes managment and reuse of rules much easier.  
@@ -38,16 +38,16 @@ Information protection - This is the ability to apply data protection labels so 
 While Premium is required to connect to the Power BI service, Premium is not required for use with the Desktop files.  
 [Microsofts description](https://powerbi.microsoft.com/en-us/blog/community-tools-for-enterprise-powerbi-and-analysisservices/)
 
-[ALM toolkit](http://alm-toolkit.com/)  Used to compare 2 PBI files or PBI content in the cloud
+[ALM toolkit](http://alm-toolkit.com/)  Used to compare 2 PBI files or PBI content in the cloud</br>
 [Tabular editor free](https://tabulareditor.github.io/) or [commerical license](https://tabulareditor.com/)
 
 [Tabular editor best pratices analyzer](https://guyinacube.com/2021/02/18/best-practice-analyzer-in-tabular-editor-for-your-power-bi-dataset/)  This uses a set of rules to analyze your Power BI data set and idenfifies possible improvments. 
 
-[Dax Studio](https://daxstudio.org/)  If you are writing a lot of Dax this can be a huge asset but it also has the ability to export data, and metadata from your model.  
+[Dax Studio](https://daxstudio.org/)  If you are writing a lot of Dax this can be a huge asset but it also has the ability to export data, and metadata from your model.  </br>
 [Exporting metadata - VPAX files](https://daxstudio.org/documentation/features/model-metrics/)  The file exported is a VPAX file and we can use the 
-[Vertipaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) to view the data.  See the [walkthrough]()
-Or you can view the JSON of the vpax file [Walkthrough](https://www.youtube.com/watch?v=zRa9y01Ub30) 
+[Vertipaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) to view the data.  See the [walkthrough](https://www.sqlbi.com/articles/data-model-size-with-vertipaq-analyzer/) and [class](https://www.sqlbi.com/p/dax-tools-video-course/).  Note the class covers several third party tools.
 
+Or you can view the JSON of the vpax file [Walkthrough](https://www.youtube.com/watch?v=zRa9y01Ub30) 
 
 [So many uses](https://www.oliviertravers.com/power-bi-third-party-tools-development-addons/)
 
@@ -66,10 +66,14 @@ While this is an advanced feature and requires use of a 3rd party tool Tabulear 
 Composite models are simply put the ability to mix Imported and Direct Query data, or to mix more than one Direct Query data source in the same model.  
 
 **Query Folding**
-Query folding is critcal enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://github.com/wgbrown/PBILearningResources/blob/main/PowerQuery/PowerQueryBasics.md)
+Query folding is critcal enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://github.com/wgbrown/PBILearningResources/blob/main/PowerQuery/PowerQueryBasics.md)</br>
 [Detailed walkthrough](https://radacad.com/not-folding-the-black-hole-of-power-query-performance) </br>
 This article mentions "At the time of writing this post Merge Columns doesn’t support Query Folding. I have reported this to Power Query Team, and they are working on it, to solve the issue."  
-Power BI and Power Query is under constant development so what didn't allow for query folding can and will change.  
+Power BI and Power Query is under constant development so transformations that don't allow for query folding can and will change.  
+
+[How to determine if Query Folding is happening?](https://www.youtube.com/watch?v=QEFze-LdLqo)
+
+
 
 
 
