@@ -23,6 +23,11 @@ Power BI for analysts who are most comfertable with Excel and self service tools
 ## Deployment best pratices
 A well thought out deployment can save time, money and greatly increase adoption.  [Deployment Resources](https://github.com/wgbrown/PBILearningResources/blob/main/deployment/BasicDeployment.md) 
 
+Enterprise deployments often take advantage of Power BI [Premium]()
+Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments. [Top 10 reasons for PBI Premium]()
+
+
+
 
 ## Data Engineer
 After PBI for Business Users and Analysts, these sections introduces you to advanced features and design tecniques.  
