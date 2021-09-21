@@ -4,15 +4,15 @@ Advanced tecniques for users who have mastered the basics
 
 Navigation can be as simple as organizing the reports in an APP to drilling to pages or other reports, or using bookmarks to tell a story with data.  
 
-[Apps support customized navigation](https://powerbi.microsoft.com/en-us/blog/designing-custom-navigation-for-power-bi-apps-is-now-available/)
+[Apps support customized navigation](https://powerbi.microsoft.com/en-us/blog/designing-custom-navigation-for-power-bi-apps-is-now-available/)  Apps are a package of reports and dashboards that can be distributed.  Apps have more navigation customization like hiding reports, custom sections and external links.  It is a **best pratice** to distribute reports via APPs.  
 
-[Button navigation - Actions](https://radacad.com/page-navigation-buttons-in-power-bi)
+[Button navigation - Actions](https://radacad.com/page-navigation-buttons-in-power-bi)  Buttons are icons or images that can be placed on a PBI report, these buttons support a number of actions like Q+A, drill through, call a bookmark, etc
 
-[Bookmarks - Storytelling](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks) and some [Use case examples](https://tessellationtech.io/toggling-views-with-bookmarks-in-power-bi/) 
+[Bookmarks - Storytelling](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks) and some [Use case examples](https://tessellationtech.io/toggling-views-with-bookmarks-in-power-bi/)  Bookmarks are saved report states inculding filter and slicer selections.  
 
-[Drill to page](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough) and [Drill buttons](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-drill-through-buttons) and some [Walk through](https://www.wallstreetmojo.com/power-bi-drill-through/) 
+[Drill to page](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough) and [Drill buttons](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-drill-through-buttons) and some [Walk through](https://www.wallstreetmojo.com/power-bi-drill-through/)  Drill to page allows you to jump to a new page in the report and pass in your current selection.  Often the target page is hidden, and a navigation button allows for a return back to the orginating page.  
 
-[Cross drill - drill to new report](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-cross-report-drill-through) and [video walktrough](https://www.youtube.com/watch?v=OcZr_70OGPo&t=4s)
+[Cross drill - drill to new report](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-cross-report-drill-through) and [video walktrough](https://www.youtube.com/watch?v=OcZr_70OGPo&t=4s)  While Drill to page allows a user to jump to another page in the report, cross drill allows the user to jump to a different report.  
 
 [Storytelling resources](https://data-marc.com/2019/07/25/storytelling-with-power-bi-1-7-provide-easy-navigation/) 
 
