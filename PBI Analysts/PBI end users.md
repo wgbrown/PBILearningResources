@@ -15,7 +15,7 @@ Power Query is used in numerious products - this is a key piece of funcationalit
 [More on PQ here](https://github.com/wgbrown/PBILearningResources/edit/main/PowerQuery/PowerQueryBasics.md)  
 
 * After data modeling, review report optimization resources  
-[Report Optimization](https://github.com/wgbrown/PBILearningResources/blob/main/ReportOptimization/Report%20Optimization.md)
+[Report Optimization](https://github.com/wgbrown/PBILearningResources/blob/main/ReportOptimization/Report%20Optimization.md)</br>
 [Examples](https://www.bluegranite.com/blog/power-bi-performance-optimization)
 
 * A understanding of Basic DAX (the calculation language of Power BI) will help add analtical value to the reports.  
