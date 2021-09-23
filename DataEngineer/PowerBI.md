@@ -64,6 +64,14 @@ While this is an advanced feature and requires use of a 3rd party tool Tabulear 
 
 **Composite models**
 Composite models are simply put the ability to mix Imported and Direct Query data, or to mix more than one Direct Query data source in the same model.  
+[Overview of Composite models](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models)
+
+Composite models open up some wide ranging design options when using Direct Query data models or Live Connections.  
+
+Composite models also support Aggregations - a mix of imported and direct query data in the same dataset.  Aggregates can greatly improve performance on large datasets while leaving all the detail level data availabe to the users.  
+
+Refer to this section on [data modeling](https://github.com/wgbrown/PBILearningResources/blob/f18dfed709e21bc598bfefdaf44e5832850968ec/Data%20Modeling/Modeling.md)
+
 
 **Query Folding**
 Query folding is critcal enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://github.com/wgbrown/PBILearningResources/blob/main/PowerQuery/PowerQueryBasics.md)</br>
@@ -72,10 +80,5 @@ This article mentions "At the time of writing this post Merge Columns doesn’t 
 Power BI and Power Query is under constant development so transformations that don't allow for query folding can and will change.  
 
 [How to determine if Query Folding is happening?](https://www.youtube.com/watch?v=QEFze-LdLqo)
-
-
-
-
-
 
 
