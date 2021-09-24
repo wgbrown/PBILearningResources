@@ -36,7 +36,7 @@ After PBI for Business Users and Analysts, these sections introduces you to adva
 
 ## Ongoing resources and training
 Lists of high quality content to contiue your journey.
-[Books and blogs]9https://github.com/wgbrown/PBILearningResources/blob/18260d8ea08b81c180edf581ea9ed751eb348f25/Resources/GeneralResources.md)<br>
+[Books and blogs]https://github.com/wgbrown/PBILearningResources/blob/18260d8ea08b81c180edf581ea9ed751eb348f25/Resources/GeneralResources.md)<br>
 
 More to come...
 
