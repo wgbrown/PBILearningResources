@@ -27,15 +27,13 @@ Enterprise deployments often take advantage of Power BI [Premium]()
 Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments. [Top 10 reasons for PBI Premium](https://github.com/wgbrown/PBILearningResources/blob/c200a1e310505800dba8c22efe4c64040d49095e/Premium/What%20is%20PBI%20Premium.md)
 
 
-
-
-## Data Engineer
+## Data Engineer (advanced techniques)
 After PBI for Business Users and Analysts, these sections introduces you to advanced features and design tecniques.  
 [PBI advanced features](https://github.com/wgbrown/PBILearningResources/blob/main/DataEngineer/PowerBI.md)
 
 
 ## Ongoing resources and training
-Lists of high quality content to contiue your journey.
+Lists of high quality content to contiue your journey.</br>
 [Books and blogs]https://github.com/wgbrown/PBILearningResources/blob/18260d8ea08b81c180edf581ea9ed751eb348f25/Resources/GeneralResources.md)<br>
 
 More to come...
