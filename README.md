@@ -2,9 +2,9 @@
 
 There is an amazing weath of training, blogs and books around Power BI.  This is to give a tightly focused outline of content to that you can start with on your journey.  
 
-In addition, there is a detailed section on ongoing and advanced resources.   
+In addition, there is a detailed section on ongoing and advanced resources (in process)
 
-Each section builds on the prior section.  You can pick and choose the content that you want, and use the material as a starting point.  
+Each section builds upon the prior sections.  You can pick and choose the content that you want, and use the material as a starting point.  THis is by no means an exaustive document but does focus on the fundmentals that you should be have an understanding of.  
 
 Outline
   Power BI for the end user
