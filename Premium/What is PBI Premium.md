@@ -3,7 +3,9 @@ Power BI Premium is a capacity based license that allows for a number of feature
 
 Premium is most often used to distrubute content (internally or externally) to unlicensed users.  The ability to create new reports remains a Power BI Pro feature.  
 
-**Top 10 reason to use Premium**
+**Top reasons to use Premium**
+
+**Unlimited sharing** With Pro licenses, you need to be a Pro user to create or CONSUME a report.  With Premium, anyone (with permission) can consume a report with no per user license.  This inculdes sharing content to external vendors and partners via [Power BI External Sharing](https://github.com/wgbrown/PBILearningResources/blob/2ebdf7ac71010e6d05a217bf7b662cc27fd03d7f/Premium/ExternalSharing.md)
 
 **Larger data models** - Today PBI Pro supports data models up to 1 gigabyte in space.  While this is highly compressed, there is a limit on the amount of data. With PBI Premium, you can create models as long as they fit into memory (many gigabytes of data).  Design is still critical so refer to the [design documents](https://github.com/wgbrown/PBILearningResources/blob/main/Data%20Modeling/Modeling.md)  
 
