@@ -6,7 +6,7 @@ In addition, there is a detailed section on ongoing and advanced resources (in p
 
 Each section builds upon the prior sections.  You can pick and choose the content that you want, and use the material as a starting point.  THis is by no means an exaustive document but does focus on the fundmentals that you should be have an understanding of.  
 
-**Outline** </br>
+**Outline** 
   Power BI for the end user</br>
   Power BI for Business users and analysts</br>
   Data engineers / Advanced techniques</br>
