@@ -8,9 +8,9 @@ Each section builds upon the prior sections.  You can pick and choose the conten
 
 **Outline**
  
-  Power BI for the end user</br>
-  Power BI for Business users and analysts</br>
-  Data engineers / Advanced techniques</br>
+  Power BI for the end user
+  Power BI for Business users and analysts 
+  Data engineers / Advanced techniques
   
 ## 1) Power BI for End users  (Start here to understand the user experience)
 Content for end users who consume content via the Power BI portal and/or Excel
