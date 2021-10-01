@@ -1,4 +1,6 @@
-Advanced tecniques for users who have mastered the basics
+Advanced tecniques for users who have mastered the basics.  
+
+Pick and choose the topics of interest
 
 **Power BI navigation** - Navigation has quite a bit of impact on use adoption.  
 
