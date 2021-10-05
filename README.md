@@ -14,7 +14,7 @@ Each section builds upon the prior sections.  You can pick and choose the conten
   
 ## 1) Power BI for End users  (Start here to understand the user experience)
 Content for end users who consume content via the Power BI portal and/or Excel
-[Power BI for End Users](https://github.com/wgbrown/PBILearningResources/blob/main/End%20Users/End%20Users.md)
+[Power BI for End Users](End Users/End Users.md)
 
 ## 2) Power BI for Business Users and Analysts (New users and users unfaimliar with optimization techniques or want to learn more) 
 Power BI for analysts who are comfertable with Excel and self service tools.  This is the right place to start with a lot of content around best pratices, performance and design.  This section has details on data model design and optimization.  Power BI is strongly data driven so please review this section carefully. 
