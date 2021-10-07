@@ -14,7 +14,7 @@ Each section builds upon the prior sections.  You can pick and choose the conten
   
 ## 1) Power BI for End users  (Start here to understand the user experience)
 Content for end users who consume content via the Power BI portal and/or Excel  
-[Power BI for End Users](https://wgbrown.github.io/PBILearningResources/End%20Users/End%20Users.md)
+[Power BI for End Users](https://wgbrown.github.io/PBILearningResources/End%20Users/End%20Users)
 
  
 
