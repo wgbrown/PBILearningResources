@@ -16,11 +16,9 @@ Each section builds upon the prior sections.  You can pick and choose the conten
 Content for end users who consume content via the Power BI portal and/or Excel  
 [Power BI for End Users](https://wgbrown.github.io/PBILearningResources/End%20Users/End%20Users)
 
- 
-
 ## 2) Power BI for Business Users and Analysts (New users and users unfaimliar with optimization techniques or want to learn more) 
 Power BI for analysts who are comfertable with Excel and self service tools.  This is the right place to start with a lot of content around best pratices, performance and design.  This section has details on data model design and optimization.  Power BI is strongly data driven so please review this section carefully. 
-[Power BI for Business Users and Analysts](https://github.com/wgbrown/PBILearningResources/blob/main/PBI%20Analysts/PBI%20end%20users.md)
+[Power BI for Business Users and Analysts](https://wgbrown.github.io/PBILearningResources/PBI%20Analysts/PBI%20end%20users)
 
 ## 3) Deployment best pratices (Even if just sharing a few reports, how you deploy reports is as important as the reports themselves) 
 A well thought out deployment can save time, money and greatly increase adoption.</br>
