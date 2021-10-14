@@ -22,20 +22,20 @@ Power BI for analysts who are comfortable with Excel and self-service tools.  Th
 
 ## 3) Deployment best practices (Even if just sharing a few reports, how you deploy reports is as important as the reports themselves) 
 A well thought out deployment can save time, money and greatly increase adoption.</br>
-[Deployment Resources](https://github.com/wgbrown/PBILearningResources/blob/main/deployment/BasicDeployment.md) 
+[Deployment Resources](https://wgbrown.github.io/PBILearningResources/deployment/BasicDeployment) 
 
-Enterprise deployments often take advantage of Power BI [Premium](https://github.com/wgbrown/PBILearningResources/blob/2845146e91a3875619ca1a41e8aebce340356ecc/Premium/What%20is%20PBI%20Premium.md)</br>
+Enterprise deployments often take advantage of Power BI [Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)</br>
 Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments.</br>
-[Top 10 reasons for PBI Premium](https://github.com/wgbrown/PBILearningResources/blob/c200a1e310505800dba8c22efe4c64040d49095e/Premium/What%20is%20PBI%20Premium.md)
+[Top 10 reasons for PBI Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)
 
 ## 4) Data Engineer (advanced techniques for users interested in solving complex problems)
 After PBI for Business Users and Analysts, these sections introduce you to advanced features and design techniques.  
-[PBI advanced features](https://github.com/wgbrown/PBILearningResources/blob/main/DataEngineer/PowerBI.md)
+[PBI advanced features](https://wgbrown.github.io/PBILearningResources/DataEngineer/PowerBI)
 
 
 ## Ongoing resources and training
 Lists of high quality content to continue  your journey.</br>
-[Books and blogs](https://github.com/wgbrown/PBILearningResources/blob/18260d8ea08b81c180edf581ea9ed751eb348f25/Resources/GeneralResources.md)<br>
+[Books and blogs](https://wgbrown.github.io/PBILearningResources/Resources/GeneralResources.md)<br>
 
 More to come...
 
