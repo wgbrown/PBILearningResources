@@ -16,7 +16,7 @@ Variance from a target or goal shows how we are meeting expectations.
 
 How to communicate the information, or even to wonder what use a Pie chart is? Selecting the right visual is half art but also half science. 
 
-[Report design](https://www.numerro.io/guides/the-complete-guide-to-designing-power-bi-reports)</br>
-[Examples](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery) </br>
-[Lecture](https://www.youtube.com/watch?v=dhHL0Uo3Wgs) </br>
+[Report design](https://www.numerro.io/guides/the-complete-guide-to-designing-power-bi-reports)  
+[Examples](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)  
+[Lecture](https://www.youtube.com/watch?v=dhHL0Uo3Wgs)  
 
