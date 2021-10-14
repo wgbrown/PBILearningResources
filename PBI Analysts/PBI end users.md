@@ -7,7 +7,7 @@ Start with Dashboard in a Day - This will give a good understanding of the trhee
 
 * Once the basics are understood, please review the data modeling resources.
 Power BI is a data model driven BI tool -that means the design of the data drives behavior rather than scripts or code.  Creating a good data model is 80% of the work.  
-[Data Modeling Resources](https:/wgbrown.github.io/PBILearningResources/Data%20Modeling/Modeling)
+[Data Modeling Resources](https://wgbrown.github.io/PBILearningResources/Data%20Modeling/Modeling)
 
 *  Creating the data model is handled by Power Query - an end user tool for accessing and preparing data.
 [What is Power Query](https://docs.microsoft.com/en-us/power-query/power-query-what-is-power-query)
@@ -15,7 +15,7 @@ Power Query is used in numerious products - this is a key piece of funcationalit
 [More on PQ here](https://wgbrown.github.io/PBILearningResources/PowerQuery/PowerQueryBasics)  
 
 * After data modeling, review report optimization resources  
-[Report Optimization](https://wgbrown.github.io/PBILearningResources/ReportOptimization/Report%20Optimization)</br>
+[Report Optimization](https://wgbrown.github.io/PBILearningResources/ReportOptimization/Report%20Optimization)  
 [Examples](https://www.bluegranite.com/blog/power-bi-performance-optimization)
 
 * A understanding of Basic DAX (the calculation language of Power BI) will help add analtical value to the reports.  
