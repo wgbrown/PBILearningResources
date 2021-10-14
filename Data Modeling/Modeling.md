@@ -9,13 +9,13 @@ Optimization Guide: [Optimization guide](https://docs.microsoft.com/en-us/power-
 Introduction to Data Modeling (free class): [Class](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
 
 Connection types - Power BI supports different methods of connecting to data sources.  
-&nbsp;&nbsp;&nbsp;&nbsp;Import:  Data is imported to the in-memory engine and cached there.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Direct Query:  Data is queried off the data source with each interaction.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Live:  A connection to a specific database that stores the data and the sematic model.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Import:  Data is imported to the in-memory engine and cached there.  
+&nbsp;&nbsp;&nbsp;&nbsp;Direct Query:  Data is queried off the data source with each interaction.  
+&nbsp;&nbsp;&nbsp;&nbsp;Live:  A connection to a specific database that stores the data and the sematic model.  
 
 Note:  In Power BI, the list of tables and fields is called a DataSet.  However, we often refer to the dataset as a Data Model or Semantic Model. The DataSet is created by connecting to various datasources, renaming fields, removing fields, adding calculated data and otherwise preparing the data for end user.  Dataset, data model and Sematic model are often used interchangeably.  
 
-[Data sources](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources)</br>
+[Data sources](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources)  
 [Connection Types](https://adatis.co.uk/power-bi-connectivity-types/) 
 
 Each connection type has advantages and disadvantages.  To determine which connection type to use, first determine your use case and business requirements.  The most effective is Import mode but often a mix of import and direct query can also be optimal.  This is referred to as [Composite Models](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-composite-models).  
