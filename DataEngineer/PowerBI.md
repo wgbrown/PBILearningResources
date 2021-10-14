@@ -54,7 +54,7 @@ Or you can view the JSON of the vpax file [Walkthrough](https://www.youtube.com/
 [So many uses](https://www.oliviertravers.com/power-bi-third-party-tools-development-addons/)
 
 **Calculation groups**
-Power BI has a powerful calculation language called [DAX](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md).  Often we are required to create the same calculation several times for each metric.  If you have Sales and Returns data, you might have YTD, Last YTD, Prior Month, Year ago for each measure.  
+Power BI has a powerful calculation language called [DAX](https://wgbrown.github.io/PBILearningResources/Dax/Intro%20To%20Dax).  Often we are required to create the same calculation several times for each metric.  If you have Sales and Returns data, you might have YTD, Last YTD, Prior Month, Year ago for each measure.  
 
 Calculation groups allow you to create a calculation like YTD but apply it to several measures.  
 
@@ -62,7 +62,7 @@ Calculation groups allow you to create a calculation like YTD but apply it to se
 
 While this is an advanced feature and requires use of a 3rd party tool Tabulear Editor(see above)
 
-[Calculation groups](https://www.sqlbi.com/blog/marco/2020/07/15/creating-calculation-groups-in-power-bi-desktop/) do require a good knowledge of [DAX](https://github.com/wgbrown/PBILearningResources/blob/main/Dax/Intro%20To%20Dax.md) 
+[Calculation groups](https://www.sqlbi.com/blog/marco/2020/07/15/creating-calculation-groups-in-power-bi-desktop/) do require a good knowledge of [DAX](https://wgbrown.github.io/PBILearningResources/Dax/Intro%20To%20Dax) 
 
 **Composite models**
 Composite models are simply put the ability to mix Imported and Direct Query data, or to mix more than one Direct Query data source in the same model.  
@@ -72,11 +72,10 @@ Composite models open up some wide ranging design options when using Direct Quer
 
 Composite models also support Aggregations - a mix of imported and direct query data in the same dataset.  Aggregates can greatly improve performance on large datasets while leaving all the detail level data available to the users.  
 
-Refer to this section on [data modeling](https://github.com/wgbrown/PBILearningResources/blob/f18dfed709e21bc598bfefdaf44e5832850968ec/Data%20Modeling/Modeling.md)
-
+Refer to this section on [data modeling](https://wgbrown.github.io/PBILearningResources/Data%20Modeling/Modeling)
 
 **Query Folding**
-Query folding is critical enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://github.com/wgbrown/PBILearningResources/blob/main/PowerQuery/PowerQueryBasics.md)</br>
+Query folding is critical enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://wgbrown.github.io/PBILearningResources/PowerQuery/PowerQueryBasics) 
 [Detailed walkthrough](https://radacad.com/not-folding-the-black-hole-of-power-query-performance) </br>
 This article mentions "At the time of writing this post Merge Columns doesn’t support Query Folding. I have reported this to Power Query Team, and they are working on it, to solve the issue."  
 Power BI and Power Query is under constant development so transformations that don't allow for query folding can and will change.  
