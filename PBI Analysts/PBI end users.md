@@ -1,6 +1,6 @@
 ## Power BI for Business Users and Analysts
 
-Power BI has three main layer: Visualization, Data model (also called the sematic model) and the data preperation layer.
+Power BI has three main layer: Visualization, Data model (also called the sematic model) and the data preparation layer.
 
 Start with Dashboard in a Day - This will give a good understanding of the trhee main topics 
 * Dashboard in a Day is a free online class delivered by our partners: [DIAD Events](https://events.microsoft.com/?timeperiod=next30Days&isSharedInLocalViewMode=true&country=United%20States&language=English&product=Power%20BI)
