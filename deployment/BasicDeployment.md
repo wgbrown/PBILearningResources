@@ -16,7 +16,7 @@ Users want to be certain that the reports and datasets they are using have accur
 
 Endorsement has two option: Promoted and Certified
 Promoted is the self service model - any report creator can Promote their content.  By promoting it, they are saying that they believe the content to be accurate.
-Certified is a managed process. A limited number of users can be assigned this authority.  They have the responsiblity to ensure the quality of the content.  
+Certified is a managed process. A limited number of users can be assigned this authority.  They have the responsibility to ensure the quality of the content.  
 
 **Dataset discovery** 
 You can help uses discover your data - this helps them get the answers they need without duplicating data or effort.
