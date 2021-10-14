@@ -17,11 +17,11 @@ Premium is most often used to distribute content (internally or externally) to u
 
 **Pixel Perfect Reports** -  Some reports are best suited to heavily formatted reports.  Often best used for long tables of data or detailed reports from the operational systems.[What are paginated reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi) 
 
-**AI integration** - Power Query can access a number of Cognitivie services (vision AI) and other ML algorithms
+**AI integration** - Power Query can access a number of Cognitive services (vision AI) and other ML algorithms
 
 **Monitor performance** - Have insights into the Premium performance [Monitoring App](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-gen2-metrics-app)
 
 **Azure Data Lake integration**- Data flows can easily interoperate with the Azure Data Lake, greatly improving data sharing and access in a secure manner.  [Dataflows and ADL](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-and-azure-data-lake-storage-gen2-integration-preview/) 
 
-**XMLA Endpoints** - This opens the full set of pro development tools. See [Third Party Tools](https://github.com/wgbrown/PBILearningResources/blob/main/DataEngineer/PowerBI.md) and [Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-open-platform-connectivity-with-xmla-endpoints-public-preview/) 
+**XMLA Endpoints** - This opens the full set of pro development tools. See [Third Party Tools](https://github.com/wgbrown/PBILearningResources/DataEngineer/PowerBI) and [Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-open-platform-connectivity-with-xmla-endpoints-public-preview/) 
 
