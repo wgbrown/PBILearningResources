@@ -28,8 +28,8 @@ Enterprise deployments often take advantage of Power BI [Premium](https://wgbrow
 Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments.</br>
 [Top 10 reasons for PBI Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)
 
-## 4) Data Engineer (advanced techniques for users interested in solving complex problems)
-After PBI for Business Users and Analysts, these sections introduce you to advanced features and design techniques.  
+## 4) Advanced techniques for users interested in solving complex problems
+After PBI for Business Users and Analysts, these sections introduce you to advanced features and design techniques.  This section covers advanced navigation, row level security  and deployment options. 
 [PBI advanced features](https://wgbrown.github.io/PBILearningResources/DataEngineer/PowerBI)
 
 
