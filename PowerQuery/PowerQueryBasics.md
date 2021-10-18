@@ -19,9 +19,9 @@ Most transformational steps can be folded (turned into a query to the source dat
 
 One real world example worked as follows:
 
-User accessed table of 20 million records (10 year of data)<br/>
-User added complex conversion of a column (if, then logic)<br/>
-User removed all but last 3 years of data 
+User accessed table of 20 million records (10 year of data)  
+User added complex conversion of a column (if, then logic)  
+User removed all but last 3 years of data  
 
 Because the second step (if, then logic) could not be passed down to the database, Power Query returned 20 million rows and then removed all but the last 3 years. 
 By reordering steps so the user remove 3 years of data FIRST, Power Query ONLY fetched a smaller subset of data then did the complex column conversion.  A refresh than ran several hours, now runs in 15 minutes.  
