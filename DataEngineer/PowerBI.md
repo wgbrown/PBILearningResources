@@ -23,7 +23,7 @@ Navigation can be as simple as organizing the reports in an APP to drilling to p
 Remember that users with RW access to the workspace (Admin, Contributor or Member) will NOT have RLS rules applid.  As editors, they could remove themselves from the role so security is not applied.  It is a best practice to distribute content via APPs and not the workspaces.  [APPS](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps)
 
 For reuse of security rules across Power BI datasets, an approach called Table driven security can be utilized.  This is a more complex technique but makes management and reuse of rules much easier.  
-[Dynamic security](https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple)</br>
+[Dynamic security](https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple)
 [More Dynamic security](https://www.mssqltips.com/sqlservertip/6378/power-bi-table-based-row-level-security/)
 
 Information protection - This is the ability to apply data protection labels so exported content can be secured! 
@@ -76,7 +76,7 @@ Refer to this section on [data modeling](https://wgbrown.github.io/PBILearningRe
 
 **Query Folding**
 Query folding is critical enough and misunderstood enough that it is repeated here.  [See Data modeling section on this](https://wgbrown.github.io/PBILearningResources/PowerQuery/PowerQueryBasics) 
-[Detailed walkthrough](https://radacad.com/not-folding-the-black-hole-of-power-query-performance) </br>
+[Detailed walkthrough](https://radacad.com/not-folding-the-black-hole-of-power-query-performance)
 This article mentions "At the time of writing this post Merge Columns doesn’t support Query Folding. I have reported this to Power Query Team, and they are working on it, to solve the issue."  
 Power BI and Power Query is under constant development so transformations that don't allow for query folding can and will change.  
 
