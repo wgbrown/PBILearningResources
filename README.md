@@ -8,9 +8,9 @@ Each section builds upon the prior sections.  You can pick and choose the conten
 
 **Outline**
  
-  Power BI for the end user  
-  Power BI for Business users and analysts  
-  Data engineers / Advanced techniques  
+  Power BI for the end user   - Start here for an overview of the end user experience 
+  Power BI for Business users and analysts  - Next for report developers and use of the Power BI Desktop
+  Advanced techniques  - Review for advanced tecniques like cross drill and security.  
   
 ## 1) Power BI for End users  (Start here to understand the user experience)
 Content for end users who consume content via the Power BI portal and/or Excel  
@@ -28,8 +28,8 @@ Enterprise deployments often take advantage of Power BI [Premium](https://wgbrow
 Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments.</br>
 [Top 10 reasons for PBI Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)
 
-## 4) Data Engineer (advanced techniques for users interested in solving complex problems)
-After PBI for Business Users and Analysts, these sections introduce you to advanced features and design techniques.  
+## 4) Advanced techniques for users interested in solving complex problems
+After PBI for Business Users and Analysts, these sections introduce you to advanced features and design techniques.  This section covers advanced navigation, row level security  and deployment options. 
 [PBI advanced features](https://wgbrown.github.io/PBILearningResources/DataEngineer/PowerBI)
 
 
