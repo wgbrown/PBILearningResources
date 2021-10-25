@@ -24,8 +24,8 @@ Power BI for analysts who are comfortable with Excel and self-service tools.  Th
 A well thought out deployment can save time, money and greatly increase adoption. 
 [Deployment Resources](https://wgbrown.github.io/PBILearningResources/deployment/BasicDeployment) 
 
-Enterprise deployments often take advantage of Power BI [Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)</br>
-Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments.</br>
+Enterprise deployments often take advantage of Power BI [Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)  
+Power BI Premium is a capacity based (cores and memory) version of Power BI but also adds a number of other features useful in enterprise deployments.  
 [Top 10 reasons for PBI Premium](https://wgbrown.github.io/PBILearningResources/Premium/What%20is%20PBI%20Premium)
 
 ## 4) Advanced techniques for users interested in solving complex problems
