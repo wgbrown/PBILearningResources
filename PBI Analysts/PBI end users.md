@@ -2,7 +2,7 @@
 
 Power BI has three main layer: Visualization, Data model (also called the sematic model) and the data preparation layer.
 
-Start with Dashboard in a Day - This will give a good understanding of the trhee main topics 
+Start with Dashboard in a Day - This will give a good understanding of the three main layers( visualization, data model, and data preperation).  
 * Dashboard in a Day is a free online class delivered by our partners: [DIAD Events](https://aka.ms/NEXTDiad)
 
 * Once the basics are understood, please review the data modeling resources.
