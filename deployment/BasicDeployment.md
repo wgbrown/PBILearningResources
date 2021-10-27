@@ -1,13 +1,27 @@
 Creating accurate, fast and useful reports is only part of the job - effective methods of deploying reports is critical for wide adoption.  
 
 
-[Deployment Whitepaper](https://docs.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-enterprise-deployment)<br/>
+[Deployment Whitepaper](https://docs.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-enterprise-deployment)  
 [Using Apps to distribute content](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps)  See the Data engineer section for using custom navigation with APPs<br/>
-[Excel as a client](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-analyze-in-excel)<br/>
-Excel can be an excellent tool for self service analysis - however, there are a few things that need to be done for your data model to be effective.  Power BI has the concept of [implicit and explicit measures](https://radacad.com/explicit-vs-implicit-dax-measures-in-power-bi).<br/>
-Implicit measures are any numeric column is summarize by default.  <br/>
-Explicit measures are DAX calculations that summarize data.  <br/>
-Excel ONLY understands explicit measures - so if you want users to be able to use Excel as a tool then make sure you create explict measures!<br/>
+[Excel as a client](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-analyze-in-excel)  
+Excel can be an excellent tool for self service analysis - however, there are a few things that need to be done for your data model to be effective.  Power BI has the concept of [implicit and explicit measures](https://radacad.com/explicit-vs-implicit-dax-measures-in-power-bi).  
+
+This image is of two implicit measures - Sales Qty and SalesAmount
+
+![image](https://user-images.githubusercontent.com/10822387/137803399-6cd785d6-3ac2-49d6-8539-7560986a2aa7.png)
+
+
+
+
+Implicit measures are any numeric column and these are set to Sum as a default aggregation method.  
+
+Explicit measures are DAX calculations that summarize data.   
+![image](https://user-images.githubusercontent.com/10822387/137803489-b7d94e13-7287-4586-92dc-35671232af66.png)
+
+These are explicitly defined measures.  For example, Sales Units = Sum([Sales Qty]) and Net Qty = sum([Sales Qty])-sum([Returns Qty])
+
+
+Excel ONLY understands explicit measures - so if you want users to be able to use Excel as a tool then make sure you create explict measures!   
 
 While not specifically for a report developer, the adoption framework might be a useful read for a strategy to drive adoption across the organization. [Adoption roadmap](https://docs.microsoft.com/en-us/power-bi/guidance/powerbi-adoption-roadmap-overview)
 
@@ -20,7 +34,7 @@ Certified is a managed process. A limited number of users can be assigned this a
 
 **Dataset discovery** 
 You can help uses discover your data - this helps them get the answers they need without duplicating data or effort.
-[Datahub](https://docs.microsoft.com/en-us/power-bi/connect-data/service-datasets-hub)</br>
+[Datahub](https://docs.microsoft.com/en-us/power-bi/connect-data/service-datasets-hub)  
 [Making datasets discoverable](https://docs.microsoft.com/en-us/power-bi/connect-data/service-datasets-hub#make-your-dataset-discoverable)
 
 ## Premium feature

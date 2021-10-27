@@ -2,8 +2,8 @@
 
 Power BI has three main layer: Visualization, Data model (also called the sematic model) and the data preparation layer.
 
-Start with Dashboard in a Day - This will give a good understanding of the trhee main topics 
-* Dashboard in a Day is a free online class delivered by our partners: [DIAD Events](https://events.microsoft.com/?timeperiod=next30Days&isSharedInLocalViewMode=true&country=United%20States&language=English&product=Power%20BI)
+Start with Dashboard in a Day - This will give a good understanding of the three main layers( visualization, data model, and data preperation).  
+* Dashboard in a Day is a free online class delivered by our partners: [DIAD Events](https://aka.ms/NEXTDiad)
 
 * Once the basics are understood, please review the data modeling resources.
 Power BI is a data model driven BI tool -that means the design of the data drives behavior rather than scripts or code.  Creating a good data model is 80% of the work.  

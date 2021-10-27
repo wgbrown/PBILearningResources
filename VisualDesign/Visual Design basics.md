@@ -20,3 +20,5 @@ How to communicate the information, or even to wonder what use a Pie chart is? S
 [Examples](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)  
 [Lecture](https://www.youtube.com/watch?v=dhHL0Uo3Wgs)  
 
+[Designing effective reports](https://aka.ms/effective-reports)  This is a new course on the Microsoft Learn site that covers effective report design from some of the best!  
+
