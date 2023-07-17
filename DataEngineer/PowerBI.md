@@ -8,7 +8,7 @@ Navigation can be as simple as organizing the reports in an APP to drilling to p
 
 [Apps support customized navigation](https://powerbi.microsoft.com/en-us/blog/designing-custom-navigation-for-power-bi-apps-is-now-available/)  Apps are a package of reports and dashboards that can be distributed.  Apps have more navigation customization like hiding reports, custom sections and external links.  It is a **best practice** to distribute reports via APPs.  
 
-[Button navigation - Actions](https://radacad.com/page-navigation-buttons-in-power-bi)  Buttons are icons or images that can be placed on a PBI report, these buttons support a number of actions like Q+A, drill through, call a bookmark, etc
+[Button navigation - Actions](https://radacad.com/page-navigation-buttons-in-power-bi)  Buttons are icons or images that can be placed on a PBI report, these buttons support a number of actions like Q+A, drill through, call a bookmark, etc.
 
 [Bookmarks - Storytelling](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks) and some [Use case examples](https://tessellationtech.io/toggling-views-with-bookmarks-in-power-bi/)  Bookmarks are saved report states including filter and slicer selections.  
 
@@ -20,7 +20,7 @@ Navigation can be as simple as organizing the reports in an APP to drilling to p
 
 **Data security** - Restricting access to a subset of the data based on the user
 [Basic Row Level Security -RLS](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) and [walk through](https://www.sqlshack.com/introduction-to-row-level-security-in-power-bi/)  
-Remember that users with RW access to the workspace (Admin, Contributor or Member) will NOT have RLS rules applid.  As editors, they could remove themselves from the role so security is not applied.  It is a best practice to distribute content via APPs and not the workspaces.  [APPS](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps)
+Remember that users with RW access to the workspace (Admin, Contributor or Member) will NOT have RLS rules applied.  As editors, they could remove themselves from the role so security is not applied.  It is a best practice to distribute content via APPs and not the workspaces.  [APPS](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-apps)
 
 For reuse of security rules across Power BI datasets, an approach called Table driven security can be utilized.  This is a more complex technique but makes management and reuse of rules much easier.  
 [Dynamic security](https://radacad.com/dynamic-row-level-security-with-power-bi-made-simple)   
@@ -60,7 +60,7 @@ Calculation groups allow you to create a calculation like YTD but apply it to se
 
 ![image](https://user-images.githubusercontent.com/10822387/133331307-547a9ade-f737-485d-a89d-67914235396c.png)
 
-While this is an advanced feature and requires use of a 3rd party tool Tabulear Editor(see above)
+While this is an advanced feature and requires use of a 3rd party tool Tabular Editor(see above)
 
 [Calculation groups](https://www.sqlbi.com/blog/marco/2020/07/15/creating-calculation-groups-in-power-bi-desktop/) do require a good knowledge of [DAX](https://wgbrown.github.io/PBILearningResources/Dax/Intro%20To%20Dax) 
 
@@ -80,6 +80,8 @@ Query folding is critical enough and misunderstood enough that it is repeated he
 This article mentions "At the time of writing this post Merge Columns doesn’t support Query Folding. I have reported this to Power Query Team, and they are working on it, to solve the issue."  
 Power BI and Power Query is under constant development so transformations that don't allow for query folding can and will change.  
 
+*Useful links and articles 
 [How to determine if Query Folding is happening?](https://www.youtube.com/watch?v=QEFze-LdLqo)
-
-
+[The unofficial guide to Query Folding](https://itsnotaboutthecell.com/2023/01/27/the-almost-definitive-guide-to-query-folding/)
+[Multipart article on Query Folding](https://towardsdatascience.com/what-is-a-query-folding-in-power-bi-and-why-should-i-care-5b89f42f38d7) 
+[Where should I prepare my data](https://ssbipolar.com/2021/05/31/roches-maxim/)  Really read this - you can do a lot in Power Query to prepare data but pushing the prep back to the source system will save you time, and resources.    
