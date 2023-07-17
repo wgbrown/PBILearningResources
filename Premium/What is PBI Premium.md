@@ -15,7 +15,9 @@ Premium is most often used to distribute content (internally or externally) to u
 
 **Near Real Time Dashboards** - Reports that refresh automatically as data changes when using Direct Query datasets.  While the basic feature is available in Pro, there are advanced settings in Premium.  
 
-**Pixel Perfect Reports** -  Some reports are best suited to heavily formatted reports.  Often best used for long tables of data or detailed reports from the operational systems.[What are paginated reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi) 
+**Auto Aggregations** - Data models that use Direct Query can automatically tune themselves to cache frequently used data.  [Auto Aggs](https://learn.microsoft.com/en-us/power-bi/enterprise/aggregations-auto).  Pro also supports user created aggregation tables.  [User created agg tables](https://learn.microsoft.com/en-us/power-bi/transform-model/aggregations-advanced) 
+
+**Pixel Perfect Reports** -  NO LONGER A PREMIUM FEATURE!.  Some reports are best suited to heavily formatted reports.  Often best used for long tables of data or detailed reports from the operational systems.[What are paginated reports](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi) 
 
 **AI integration** - Power Query can access a number of Cognitive services (vision AI) and other ML algorithms
 
